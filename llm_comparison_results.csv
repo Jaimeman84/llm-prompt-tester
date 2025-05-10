@@ -1,0 +1,31 @@
+Provider,Model,Prompt,Response,Quality Score,Tokens,Cost,Latency,Reading Ease,Grade Level
+openai,gpt-4,"translates ten in english
+","The translation of ""ten"" in English is ""ten"". It's already in English.",0.86925,32,0.00096,1.9134235382080078,73.85,4.5
+anthropic,claude-3-opus-20240229,"translates ten in english
+","Here are the translations of ""ten"" in ten different languages:
+
+1. Spanish: diez
+2. French: dix
+3. German: zehn
+4. Italian: dieci
+5. Portuguese: dez
+6. Russian: десять (desyat')
+7. Japanese: 十 (jū)
+8. Chinese (Mandarin): 十 (shí)
+9. Arabic: عشرة (ʿašara)
+10. Hindi: दस (das)",0.37835,129,0.001935,4.991673946380615,75.67,3.7
+mistral,mistral-small-latest,"translates ten in english
+","The word ""ten"" translates to the following in several languages:
+
+- **Spanish**: diez
+- **French**: dix
+- **German**: zehn
+- **Italian**: dieci
+- **Portuguese**: dez
+- **Dutch**: tien
+- **Russian**: десять (desyat')
+- **Chinese (Mandarin)**: 十 (shí)
+- **Japanese**: 十 (じゅう, jū)
+- **Korean**: 열 (yeol)
+
+If you need the translation in a specific language, please let me know!",0.10869999999999998,122,0.000244,1.3474929332733154,21.74,22.4

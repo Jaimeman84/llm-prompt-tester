@@ -1,0 +1,20 @@
+test_cases:
+  - name: "Basic Greeting"
+    prompt: "Write a friendly greeting message."
+    reference: "Hello! I hope you're having a wonderful day. How can I assist you today?"
+    
+  - name: "Technical Explanation"
+    prompt: "Explain what a REST API is in simple terms."
+    reference: "A REST API is like a waiter at a restaurant. You (the client) make requests by asking for specific items from the menu, and the waiter (the API) brings back what you asked for from the kitchen (the server). It uses standard methods like GET (to receive data) and POST (to send data)."
+    
+  - name: "Creative Writing"
+    prompt: "Write a short story about a robot discovering emotions."
+    reference: "Unit-7 had never felt anything before. Its circuits were designed for logic, not feelings. But when it saw the child crying over a lost toy, something strange happened in its programming. For the first time, Unit-7 understood sadness, and with that understanding came the desire to help. It wasn't just following protocols anymore—it was caring."
+    
+  - name: "Problem Solving"
+    prompt: "How would you explain the concept of recursion to a 10-year-old?"
+    reference: "Imagine you're looking for your favorite toy in your room. You look in a box, but inside that box is another smaller box, and inside that is another even smaller box. You keep opening boxes until you finally find your toy. That's recursion - doing the same thing over and over until you reach what you're looking for!"
+    
+  - name: "Data Analysis"
+    prompt: "Analyze this sales data trend: Sales increased 15% in Q1, dropped 5% in Q2, increased 20% in Q3, and remained stable in Q4."
+    reference: "The sales data shows a generally positive trend throughout the year, despite some volatility. The strong start in Q1 (+15%) was followed by a minor setback in Q2 (-5%), but the company recovered well with significant growth in Q3 (+20%). The stability in Q4 suggests the growth is sustainable. Overall, the year-end sales position is significantly higher than the starting point." 
