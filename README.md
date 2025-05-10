@@ -1,10 +1,6 @@
-██╗     ██╗     ███╗   ███╗    ████████╗███████╗███████╗████████╗███████╗██████╗ 
-██║     ██║     ████╗ ████║    ╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-██║     ██║     ██╔████╔██║       ██║   █████╗  ███████╗   ██║   █████╗  ██████╔╝
-██║     ██║     ██║╚██╔╝██║       ██║   ██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══██╗
-███████╗███████╗██║ ╚═╝ ██║       ██║   ███████╗███████║   ██║   ███████╗██║  ██║
-╚══════╝╚══════╝╚═╝     ╚═╝       ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
+# LLM Prompt Tester
+
+A Streamlit application for testing and comparing responses from different Language Learning Models (LLMs) including OpenAI, Anthropic, and Mistral.
 
 <div align="center">
   <p>
@@ -20,10 +16,6 @@
 </div>
 
 ---
-
-# LLM Prompt Tester
-
-A Streamlit application for testing and comparing responses from different Language Learning Models (LLMs) including OpenAI, Anthropic, and Mistral.
 
 ## Features
 
